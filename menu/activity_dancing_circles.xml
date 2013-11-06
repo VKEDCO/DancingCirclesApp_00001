@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/start_synch_threads" android:title="@string/start_synch_threads"></item>
+    <item android:id="@+id/start_unsynch_threads" android:title="@string/start_unsynch_threads"></item>
+</menu>
