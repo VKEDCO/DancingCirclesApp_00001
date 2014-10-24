@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.vkedco.mobappdev.dancing_circles.DancingCirclesAct"
+    >
+    <item android:id="@+id/start_synch_threads" android:title="@string/start_synch_threads"
+        android:showAsAction="never" />
+    <item android:id="@+id/start_unsynch_threads" 
+        android:title="@string/start_unsynch_threads"
+        android:showAsAction="never" />
+    <item android:id="@+id/stop" 
+        android:title="@string/stop"
+        android:showAsAction="never" />
+</menu>
